@@ -1,6 +1,8 @@
 Bem-Vindo Campuseros!
 =====
 
+Apresentação: https://github.com/felipealbertao/cpbr7/blob/master/CampusParty-ApresentacaoFelipeAlbertaoPayPal.pdf
+
 Código fonte e instruções das demos: https://github.com/felipealbertao/cpbr7
 
 Links e Ferramentas:
